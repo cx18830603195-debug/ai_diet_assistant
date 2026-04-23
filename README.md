@@ -1,0 +1,2 @@
+# ai_diet_assistant
+基于MCP协议与大模型的AI饮食智能助手
